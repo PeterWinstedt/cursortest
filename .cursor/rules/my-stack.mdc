@@ -6,8 +6,8 @@ alwaysApply: true
 
 # Technical stack
 
-- python for the backend
+- .net 9 and c# for the backend
 - html and javascript for the frontend
 - Use JSON file storage
 - Separate databases for dev, test and prod
-- python tests
+- cypress for tests
