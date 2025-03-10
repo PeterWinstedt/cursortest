@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Technical stack
+
+- .net 9 and c# for the backend
+- Blazor and Tailwind for the frontend
+- SQL databases, never JSON file storage
+- Separate databases for dev, test and prod
+- .net 9 and c# for tests
+- Cypress for frontend tests
