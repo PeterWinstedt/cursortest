@@ -19,8 +19,6 @@ C:\Users\peter.winstedt\OneDrive - Hogia\cursortest\TodoApp\obj\Debug\net9.0\Tod
 C:\Users\peter.winstedt\OneDrive - Hogia\cursortest\TodoApp\obj\Debug\net9.0\TodoApp.sourcelink.json
 C:\Users\peter.winstedt\OneDrive - Hogia\cursortest\TodoApp\obj\Debug\net9.0\scopedcss\bundle\TodoApp.styles.css
 C:\Users\peter.winstedt\OneDrive - Hogia\cursortest\TodoApp\obj\Debug\net9.0\compressed\pnohrms5be-wavl4qa4xe.gz
-C:\Users\peter.winstedt\OneDrive - Hogia\cursortest\TodoApp\obj\Debug\net9.0\compressed\jxa1uzn291-se5wfeldd4.gz
-C:\Users\peter.winstedt\OneDrive - Hogia\cursortest\TodoApp\obj\Debug\net9.0\compressed\8kfpm9ehoq-q3xj1y6its.gz
 C:\Users\peter.winstedt\OneDrive - Hogia\cursortest\TodoApp\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\peter.winstedt\OneDrive - Hogia\cursortest\TodoApp\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\peter.winstedt\OneDrive - Hogia\cursortest\TodoApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -36,3 +34,6 @@ C:\Users\peter.winstedt\OneDrive - Hogia\cursortest\TodoApp\obj\Debug\net9.0\ref
 C:\Users\peter.winstedt\OneDrive - Hogia\cursortest\TodoApp\obj\Debug\net9.0\TodoApp.pdb
 C:\Users\peter.winstedt\OneDrive - Hogia\cursortest\TodoApp\obj\Debug\net9.0\TodoApp.genruntimeconfig.cache
 C:\Users\peter.winstedt\OneDrive - Hogia\cursortest\TodoApp\obj\Debug\net9.0\ref\TodoApp.dll
+C:\Users\peter.winstedt\OneDrive - Hogia\cursortest\todoapp\bin\Debug\net9.0\tasks_development.json
+C:\Users\peter.winstedt\OneDrive - Hogia\cursortest\TodoApp\obj\Debug\net9.0\compressed\8kfpm9ehoq-2lay042asz.gz
+C:\Users\peter.winstedt\OneDrive - Hogia\cursortest\TodoApp\obj\Debug\net9.0\compressed\jxa1uzn291-mk8hzhvz8e.gz

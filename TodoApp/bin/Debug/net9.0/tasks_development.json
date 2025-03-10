@@ -33,27 +33,9 @@
     {
       "Id": 6,
       "Description": "asdf",
-      "IsCompleted": true,
+      "IsCompleted": false,
       "CreatedAt": "2025-03-10T16:18:42.2968646+01:00"
-    },
-    {
-      "Id": 7,
-      "Description": "Ta bussen till jobbet",
-      "IsCompleted": false,
-      "CreatedAt": "2025-03-10T16:21:34.8915044+01:00"
-    },
-    {
-      "Id": 8,
-      "Description": "L\u00E4s lite grand i boken",
-      "IsCompleted": false,
-      "CreatedAt": "2025-03-10T16:21:48.0032677+01:00"
-    },
-    {
-      "Id": 9,
-      "Description": "Lukta p\u00E5 blommorna",
-      "IsCompleted": false,
-      "CreatedAt": "2025-03-10T16:21:54.0341985+01:00"
     }
   ],
-  "NextId": 10
+  "NextId": 7
 }

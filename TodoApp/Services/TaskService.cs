@@ -25,7 +25,12 @@ public class TaskService
 
     public TaskItem AddTask(string description)
     {
-        var task = new TaskItem { Id = _nextId++, Description = description, IsCompleted = false };
+        var task = new TaskItem { 
+            Id = _nextId++, 
+            Description = description, 
+            IsCompleted = false,
+            CreatedAt = DateTime.Now
+        };
         _tasks.Add(task);
         SaveTasksToFile();
         return task;

@@ -74,7 +74,17 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
         
-        tasks.forEach(task => {
+        // Sort tasks: incomplete tasks first, then completed tasks
+        const sortedTasks = [...tasks].sort((a, b) => {
+            // If completion status is different, sort by completion status
+            if (a.isCompleted !== b.isCompleted) {
+                return a.isCompleted ? 1 : -1; // false comes before true
+            }
+            // If both have same completion status, maintain original order (by ID)
+            return a.id - b.id;
+        });
+        
+        sortedTasks.forEach(task => {
             const li = document.createElement('li');
             
             const checkbox = document.createElement('input');
@@ -84,12 +94,27 @@ document.addEventListener('DOMContentLoaded', () => {
             checkbox.disabled = task.isCompleted;
             checkbox.addEventListener('change', () => completeTask(task.id));
             
+            const taskContent = document.createElement('div');
+            taskContent.className = 'task-content';
+            
             const span = document.createElement('span');
             span.className = `task-text ${task.isCompleted ? 'completed' : ''}`;
             span.textContent = task.description;
             
+            const timestamp = document.createElement('small');
+            timestamp.className = 'task-timestamp';
+            if (task.createdAt) {
+                const date = new Date(task.createdAt);
+                timestamp.textContent = `Added on: ${date.toLocaleString()}`;
+            } else {
+                timestamp.textContent = 'No timestamp available';
+            }
+            
+            taskContent.appendChild(span);
+            taskContent.appendChild(timestamp);
+            
             li.appendChild(checkbox);
-            li.appendChild(span);
+            li.appendChild(taskContent);
             taskList.appendChild(li);
         });
     };
