@@ -8,6 +8,6 @@ alwaysApply: true
 
 - python for the backend
 - html and javascript for the frontend
-- SQL databases, never JSON file storage
+- Use JSON file storage
 - Separate databases for dev, test and prod
 - python tests
