@@ -1,0 +1,12 @@
+**/.git
+**/.gitignore
+**/.vs
+**/.vscode
+**/bin
+**/obj
+**/Dockerfile*
+**/.dockerignore
+**/*.user
+**/node_modules
+**/npm-debug.log
+**/tasks_*.json 
