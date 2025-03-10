@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "PqBRxUMz0ZDkLo5AQDaIG7NeDNi0vPeT6cgpOSTDTXA=",
+  "Source": "TodoApp",
+  "BasePath": "_content/TodoApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TodoApp\\wwwroot",
+      "Source": "TodoApp",
+      "ContentRoot": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\",
+      "BasePath": "_content/TodoApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\8kfpm9ehoq-q3xj1y6its.gz",
+      "SourceId": "TodoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TodoApp",
+      "RelativePath": "style#[.{fingerprint=q3xj1y6its}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "m4e8642ug7",
+      "Integrity": "ehBgn+xjG3bS5gppooNjA8awFhs+ETi9i36dzx9q85I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\jxa1uzn291-se5wfeldd4.gz",
+      "SourceId": "TodoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TodoApp",
+      "RelativePath": "script#[.{fingerprint=se5wfeldd4}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2koao40u86",
+      "Integrity": "Lj37UKD9JoGdbpSS5n9GF/qwnQq2AYyn6IUwXsY39m0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\pnohrms5be-wavl4qa4xe.gz",
+      "SourceId": "TodoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TodoApp",
+      "RelativePath": "index#[.{fingerprint=wavl4qa4xe}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "u6l5y22raz",
+      "Integrity": "envK/6UlGWaexHGwkCYv/I412zP2BP7xWVr2bp0K6VE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\index.html",
+      "SourceId": "TodoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\",
+      "BasePath": "_content/TodoApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wavl4qa4xe",
+      "Integrity": "SKJsAFro3sXCS7auXvMPp8p5Qlg//FI6oXWNhVFUCbY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\script.js",
+      "SourceId": "TodoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\",
+      "BasePath": "_content/TodoApp",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "se5wfeldd4",
+      "Integrity": "nCVRhfUMITqI5goLaIe5hS8zF9oZVYrX/sVN1KPeWZQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\style.css",
+      "SourceId": "TodoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\",
+      "BasePath": "_content/TodoApp",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q3xj1y6its",
+      "Integrity": "qogGbr8OEC6iFfJTcGJNgMRnzmC49K/x+9GzD7jID1U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\pnohrms5be-wavl4qa4xe.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002624671916"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "380"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"envK/6UlGWaexHGwkCYv/I412zP2BP7xWVr2bp0K6VE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:48:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SKJsAFro3sXCS7auXvMPp8p5Qlg//FI6oXWNhVFUCbY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SKJsAFro3sXCS7auXvMPp8p5Qlg//FI6oXWNhVFUCbY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SKJsAFro3sXCS7auXvMPp8p5Qlg//FI6oXWNhVFUCbY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:48:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SKJsAFro3sXCS7auXvMPp8p5Qlg//FI6oXWNhVFUCbY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\pnohrms5be-wavl4qa4xe.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"envK/6UlGWaexHGwkCYv/I412zP2BP7xWVr2bp0K6VE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:48:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-envK/6UlGWaexHGwkCYv/I412zP2BP7xWVr2bp0K6VE="
+        }
+      ]
+    },
+    {
+      "Route": "index.wavl4qa4xe.html",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\pnohrms5be-wavl4qa4xe.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002624671916"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "380"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"envK/6UlGWaexHGwkCYv/I412zP2BP7xWVr2bp0K6VE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:48:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SKJsAFro3sXCS7auXvMPp8p5Qlg//FI6oXWNhVFUCbY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wavl4qa4xe"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SKJsAFro3sXCS7auXvMPp8p5Qlg//FI6oXWNhVFUCbY="
+        }
+      ]
+    },
+    {
+      "Route": "index.wavl4qa4xe.html",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SKJsAFro3sXCS7auXvMPp8p5Qlg//FI6oXWNhVFUCbY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:48:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wavl4qa4xe"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SKJsAFro3sXCS7auXvMPp8p5Qlg//FI6oXWNhVFUCbY="
+        }
+      ]
+    },
+    {
+      "Route": "index.wavl4qa4xe.html.gz",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\pnohrms5be-wavl4qa4xe.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"envK/6UlGWaexHGwkCYv/I412zP2BP7xWVr2bp0K6VE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:48:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wavl4qa4xe"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-envK/6UlGWaexHGwkCYv/I412zP2BP7xWVr2bp0K6VE="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\jxa1uzn291-se5wfeldd4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000921658986"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1084"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lj37UKD9JoGdbpSS5n9GF/qwnQq2AYyn6IUwXsY39m0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:49:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nCVRhfUMITqI5goLaIe5hS8zF9oZVYrX/sVN1KPeWZQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nCVRhfUMITqI5goLaIe5hS8zF9oZVYrX/sVN1KPeWZQ="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nCVRhfUMITqI5goLaIe5hS8zF9oZVYrX/sVN1KPeWZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:49:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nCVRhfUMITqI5goLaIe5hS8zF9oZVYrX/sVN1KPeWZQ="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\jxa1uzn291-se5wfeldd4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lj37UKD9JoGdbpSS5n9GF/qwnQq2AYyn6IUwXsY39m0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:49:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lj37UKD9JoGdbpSS5n9GF/qwnQq2AYyn6IUwXsY39m0="
+        }
+      ]
+    },
+    {
+      "Route": "script.se5wfeldd4.js",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\jxa1uzn291-se5wfeldd4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000921658986"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1084"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lj37UKD9JoGdbpSS5n9GF/qwnQq2AYyn6IUwXsY39m0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:49:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nCVRhfUMITqI5goLaIe5hS8zF9oZVYrX/sVN1KPeWZQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "se5wfeldd4"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nCVRhfUMITqI5goLaIe5hS8zF9oZVYrX/sVN1KPeWZQ="
+        }
+      ]
+    },
+    {
+      "Route": "script.se5wfeldd4.js",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nCVRhfUMITqI5goLaIe5hS8zF9oZVYrX/sVN1KPeWZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:49:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "se5wfeldd4"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nCVRhfUMITqI5goLaIe5hS8zF9oZVYrX/sVN1KPeWZQ="
+        }
+      ]
+    },
+    {
+      "Route": "script.se5wfeldd4.js.gz",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\jxa1uzn291-se5wfeldd4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lj37UKD9JoGdbpSS5n9GF/qwnQq2AYyn6IUwXsY39m0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:49:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "se5wfeldd4"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lj37UKD9JoGdbpSS5n9GF/qwnQq2AYyn6IUwXsY39m0="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\8kfpm9ehoq-q3xj1y6its.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001375515818"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "726"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ehBgn+xjG3bS5gppooNjA8awFhs+ETi9i36dzx9q85I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:49:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qogGbr8OEC6iFfJTcGJNgMRnzmC49K/x+9GzD7jID1U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qogGbr8OEC6iFfJTcGJNgMRnzmC49K/x+9GzD7jID1U="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qogGbr8OEC6iFfJTcGJNgMRnzmC49K/x+9GzD7jID1U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:49:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qogGbr8OEC6iFfJTcGJNgMRnzmC49K/x+9GzD7jID1U="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\8kfpm9ehoq-q3xj1y6its.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ehBgn+xjG3bS5gppooNjA8awFhs+ETi9i36dzx9q85I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:49:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ehBgn+xjG3bS5gppooNjA8awFhs+ETi9i36dzx9q85I="
+        }
+      ]
+    },
+    {
+      "Route": "style.q3xj1y6its.css",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\8kfpm9ehoq-q3xj1y6its.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001375515818"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "726"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ehBgn+xjG3bS5gppooNjA8awFhs+ETi9i36dzx9q85I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:49:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qogGbr8OEC6iFfJTcGJNgMRnzmC49K/x+9GzD7jID1U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q3xj1y6its"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qogGbr8OEC6iFfJTcGJNgMRnzmC49K/x+9GzD7jID1U="
+        }
+      ]
+    },
+    {
+      "Route": "style.q3xj1y6its.css",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qogGbr8OEC6iFfJTcGJNgMRnzmC49K/x+9GzD7jID1U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:49:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q3xj1y6its"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qogGbr8OEC6iFfJTcGJNgMRnzmC49K/x+9GzD7jID1U="
+        }
+      ]
+    },
+    {
+      "Route": "style.q3xj1y6its.css.gz",
+      "AssetFile": "C:\\Users\\peter.winstedt\\OneDrive - Hogia\\cursortest\\TodoApp\\obj\\Debug\\net9.0\\compressed\\8kfpm9ehoq-q3xj1y6its.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ehBgn+xjG3bS5gppooNjA8awFhs+ETi9i36dzx9q85I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 13:49:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q3xj1y6its"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ehBgn+xjG3bS5gppooNjA8awFhs+ETi9i36dzx9q85I="
+        }
+      ]
+    }
+  ]
+}

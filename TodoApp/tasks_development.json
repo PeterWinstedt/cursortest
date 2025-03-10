@@ -1,0 +1,25 @@
+{
+  "Tasks": [
+    {
+      "Id": 1,
+      "Description": "k\u00F6pa korv",
+      "IsCompleted": true
+    },
+    {
+      "Id": 2,
+      "Description": "drick vatten",
+      "IsCompleted": true
+    },
+    {
+      "Id": 3,
+      "Description": "g\u00E5 hem",
+      "IsCompleted": false
+    },
+    {
+      "Id": 4,
+      "Description": "g\u00F6r n\u00E5t kul",
+      "IsCompleted": true
+    }
+  ],
+  "NextId": 5
+}
